@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @
+#ISAH DE RAMOS
+- 👀 I’m interested in ...
+- aprender mais e mais ...
+- 🌱 I’m currently learning ...
+- novas experiencia no ramo da computação
+- 💞️ I’m looking to collaborate on ...
+- no meu crescimento profissional
+- 📫 How to reach me ...
+- isael.ramos@escola.pr.gov.br 
+- 042999104107
+
+<!---
+Isah1512/Isah1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
